@@ -1,5 +1,7 @@
 # FindBarPlugin
 
+![](https://raw.githubusercontent.com/amate/FindBarPlugin/images/images/ss1.jpg)
+
 ## ■はじめに
 このプラグインは、テキスト編集ソフト"Mery"に検索バーを追加するプラグインです
 
@@ -52,6 +54,8 @@ Mery Version 3.1.0からなぜか起動時にツールバーの位置が復元�
 ''''
 
 検索バーの最大履歴数を指定できます
+
+![](https://raw.githubusercontent.com/amate/FindBarPlugin/images/images/ss2.jpg)
 
 
 ## ■その他
