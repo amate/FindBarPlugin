@@ -3,7 +3,7 @@
 ![](https://raw.githubusercontent.com/amate/FindBarPlugin/images/images/ss1.jpg)
 
 ## ■はじめに
-このプラグインは、テキスト編集ソフト"Mery"に検索バーを追加するプラグインです
+このプラグインは、テキスト編集ソフト"[Mery](https://www.haijin-boys.com/wiki/メインページ)"に検索バーを追加するプラグインです
 
 ## ■動作環境
 ・Windows 10 home 64bit バージョン 2004  
